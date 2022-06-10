@@ -14,10 +14,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://7v1j8y-my.sharepoint.com/:u:/g/personal/johnwick_7v1j8y_onmicrosoft_com/ETx9zJKLoAVAttKXU6DdeqMBLlRrhp2FGsy97WL14zXZ3w?download=1
+  ROM_URL: https://saimei.ftp.acc.umu.se/mirror/lineageos/full/alioth/20220604/lineage-19.1-20220604-nightly-alioth-signed.zip
 
-  ROM_NAME: Lineadeos
-  BUILD_TYPE: vab
+
+  ROM_NAME: LineadeOS
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
